@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @keithawess
+- 👋 Hi, I’m Keith
 - 👀 I’m interested in games of all kinds, climbing, and music.
 - 🌱 I’m currently learning JavaScript, React.
 
