@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Keith
-- 👀 I’m interested in games of all kinds, climbing, and music.
-- 🌱 I’m currently learning JavaScript, React.
+I recently finished the Midland Code Academy program where I received hands-on experience building websites from the ground up.
 
 <!---
 keithawess/keithawess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
